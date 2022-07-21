@@ -15,5 +15,6 @@ for k,v in hourcount.items():
 for k,v in hourlist :
     print(k,v)
     
+    #Fix bug v1.2
     
     
